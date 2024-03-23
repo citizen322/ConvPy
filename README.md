@@ -9,7 +9,7 @@ This Python script, `ConvPy`, is a tool that fetches data about currency exchang
 2. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone 
+   git clone https://github.com/citizen322/ConvPy
    ```
    
 3. **Navigate to the Directory**: Move to the directory containing the cloned repository:
